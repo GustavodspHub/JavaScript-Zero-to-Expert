@@ -18,7 +18,7 @@ friends.pop();
 
 console.log(popped);
 
-friends.shift(); // O método shift remote o primeiro valor do array, e também retorna o valor que está sendo removido do array.
+friends.shift(); // O método shift remove o primeiro valor do array, e também retorna o valor que está sendo removido do array.
 
 console.log(friends);
 
